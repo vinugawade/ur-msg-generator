@@ -1,6 +1,6 @@
 # UR-Msg-Generator
 ## Idea
->                               ----------- Main Input In Editor -----------
+>                               ------------ Main Input In Editor ------------
 >                               |                                            |
 >                               |                                            |
 >                              \|/                                          \|/
